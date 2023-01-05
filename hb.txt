@@ -1,0 +1,6 @@
+0	0	255	0	255	0	250	250	210	0
+
+circle 	-842150450	133	326	149
+BLUE	Not_color_now!
+Traingle 	-842150451	518	466	557	423	611	490BLUE	Not_color_now!
+Square 	-842150451	629	161	97	BLUE	Not_color_now!
